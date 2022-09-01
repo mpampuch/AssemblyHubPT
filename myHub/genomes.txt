@@ -1,0 +1,13 @@
+genome PT
+trackDb PT/trackDb.txt
+groups PT/groups.txt
+description August 2022 PT
+twoBitPath PT/ricCom1.2bit
+organism Phaeodactylum tricornutum
+defaultPos 1:1-200
+orderKey 4800
+scientificName Phaeodactylum tricornutum
+htmlPath PT/description.html
+transBlat yourLab.yourInstitution.edu 17777
+blat yourLab.yourInstitution.edu 17779
+isPcr yourLab.yourInstitution.edu 17779
