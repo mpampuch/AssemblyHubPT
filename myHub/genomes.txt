@@ -1,4 +1,4 @@
-genome araTha1
+genome PT
 trackDb PT/trackDb.txt
 groups groups.txt
 description Feb. 2011 Thale cress
