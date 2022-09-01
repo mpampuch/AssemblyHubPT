@@ -1,13 +1,13 @@
 genome araTha1
-trackDb araTha1/trackDb.txt
+trackDb PT/trackDb.txt
 groups groups.txt
 description Feb. 2011 Thale cress
-twoBitPath araTha1/araTha1.2bit
-organism Arabidopsis thaliana
-defaultPos chr1:1000000-2000000
+twoBitPath PT/PT.2bit
+organism Phaeodactylum tricornutum
+defaultPos chr1:1-2000
 orderKey 4700
-scientificName Arabidopsis thaliana
-htmlPath araTha1/description.html
+scientificName Phaeodactylum tricornutum
+htmlPath PT/description.html
 #blat localhost 17779
 #transBlat localhost 17777
 #isPcr localhost 17779
