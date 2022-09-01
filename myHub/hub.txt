@@ -3,4 +3,4 @@ shortLabel PTOld
 longLabel Contains the old PT genome
 genomesFile genomes.txt
 email dzahid@uwo.ca
-descriptionUrl aboutHub.html
+descriptionUrl https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/main/myHub/PT/description.html
