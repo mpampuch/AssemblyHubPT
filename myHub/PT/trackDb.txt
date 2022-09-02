@@ -4,7 +4,7 @@ shortLabel Ann
 priority 11
 visibility dense
 color 0,0,0
-bigDataUrl https://github.com/DanishZahid1/AssemblyHubPT/blob/main/myHub/PT/bbi/phatr3_gene_models_with_href.bb?raw=true
-type bigBed 6
+bigDataUrl bbi/
+type bed 6+4
 group map
-html ../trackDescriptions/gap
+#html ../trackDescriptions/gap
