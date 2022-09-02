@@ -4,7 +4,7 @@ groups groups.txt
 description Sept. 2022 Phaeodactylum tricornutum
 twoBitPath PT/PTNew.2bit
 organism Phaeodactylum tricornutum
-defaultPos 1:1-2000
+defaultPos chromosome_1:1-2000
 orderKey 1
 scientificName Phaeodactylum tricornutum
 htmlPath PT/description.html
