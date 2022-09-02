@@ -4,7 +4,7 @@ groups groups.txt
 description Feb. 2011 Thale cress
 twoBitPath PT/PT.2bit
 organism Phaeodactylum tricornutum
-defaultPos chr1:1-2000
+defaultPos 1:1-2000
 orderKey 4700
 scientificName Phaeodactylum tricornutum
 htmlPath PT/description.html
