@@ -1,7 +1,7 @@
 genome PT
 trackDb PT/trackDb.txt
 groups groups.txt
-description Feb. 2011 Thale cress
+description Sept. 2022 Phaeodactylum tricornutum
 twoBitPath PT/PT.2bit
 organism Phaeodactylum tricornutum
 defaultPos 1:1-2000
