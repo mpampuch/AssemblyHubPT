@@ -1,0 +1,10 @@
+track OldAnnotation
+longLabel Annotation
+shortLabel Ann
+priority 11
+visibility dense
+color 0,0,0
+bigDataUrl bbi/phatr3_gene_models_with_href.bb
+type bigBed 4
+group map
+html ../trackDescriptions/gap
