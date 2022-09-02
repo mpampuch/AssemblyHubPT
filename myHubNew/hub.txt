@@ -1,6 +1,6 @@
 hub PTNew
 shortLabel PTNew
 longLabel Contains the New PT genome
-genomesFile genomes.txt
+genomesFile genomesNew.txt
 email dzahid@uwo.ca
-descriptionUrl https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/blob/main/myHub/PT/bbi/phatr3_gene_models_with_href.bb
+descriptionUrl https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/blob/main/myHub/PT/bbi/description.html
