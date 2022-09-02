@@ -4,7 +4,7 @@ shortLabel Ann
 priority 11
 visibility dense
 color 0,0,0
-bigDataUrl bbi/
+bigDataUrl bbi/phatr3_gene_models_with_href_sorted.bed
 type bed 6 +
 group map
 #html ../trackDescriptions/gap
