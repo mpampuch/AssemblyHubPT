@@ -1,7 +1,7 @@
 genome PT
 trackDb PT/trackDb.txt
 groups groups.txt
-description Sept. 2022 Phaeodactylum tricornutum
+description Phaedactylum Tricornutum 2021 ONT Assembly (Giguere et al.; https://peerj.com/articles/13607/)
 twoBitPath PT/PTNew.2bit
 organism Phaeodactylum tricornutum
 defaultPos chromosome_1:1-2000
