@@ -3,4 +3,4 @@ shortLabel PTOld
 longLabel Contains the old PT genome assembly (Bowler et al., 2008)
 genomesFile genomes.txt
 email mpampuch@uwo.ca
-descriptionUrl https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/blob/main/myHubNew/PT/bbi/description.html
+descriptionUrl https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/blob/main/myHub/PT/bbi/description.html
