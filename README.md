@@ -35,7 +35,7 @@ faToTwoBit Phaeodactylum_tricornutum.ASM15095v2.dna.toplevel.fa PT.2bit
 - Instructions:
 	- Go to https://genome.ucsc.edu/cgi-bin/hgHubConnect?hubId=3613437&hgHub_do_disconnect=on&hgHubConnect.remakeTrackHub=on&hgsid=1440384845_DoCocqhtgEG1XCRVA3ovsM86amaE
 	- Connect the hub using the following URL:
-		- https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/main/myHub/hub.txt
+		- https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/main/myHub/hub.txt
 		
 		
 ## September 2nd 2022
@@ -115,9 +115,9 @@ bedToBigBed PT_clean_sorted.bed PT.chrom.sizes PT.bb
 - Go to https://genome.ucsc.edu/cgi-bin/hgHubConnect?hubId=3613437&hgHub_do_disconnect=on&hgHubConnect.remakeTrackHub=on&hgsid=1440384845_DoCocqhtgEG1XCRVA3ovsM86amaE
 - Connect the hub using the following URL:
 	- Old
-		- https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/main/myHub/hub.txt
+		- https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/main/myHub/hub.txt
 	- New
-		- https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/main/myHubNew/hub.txt
+		- https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/main/myHubNew/hub.txt
 - ***To add custom annotation track***:
 	- press add custom tracks
 	- upload GFF file
