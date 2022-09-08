@@ -1,6 +1,6 @@
 hub PTNew
 shortLabel PTNew
-longLabel Contains the New PT genome
+longLabel Contains the New PT genome assembly (Bowler et al., 2008)
 genomesFile genomesNew.txt
-email dzahid@uwo.ca
-descriptionUrl https://raw.githubusercontent.com/DanishZahid1/AssemblyHubPT/blob/main/myHub/PT/bbi/description.html
+email mpampuch@uwo.ca
+descriptionUrl https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/blob/main/myHub/PT/bbi/description.html
