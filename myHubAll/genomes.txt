@@ -1,0 +1,16 @@
+genome PT
+trackDb PT/trackDb.txt
+groups groups.txt
+description Phaedactylum Tricornutum 2008 WGSS Assembly (Bowler et al.; https://www.nature.com/articles/nature07410)
+twoBitPath PT/PT.2bit
+organism Phaeodactylum tricornutum
+defaultPos 1:1-2000
+orderKey 1
+scientificName Phaeodactylum tricornutum
+htmlPath PT/description.html
+#blat localhost 17779
+#transBlat localhost 17777
+#isPcr localhost 17779
+#Note: Usually instead of localhost you will use the host name of where the gfserver is located (blat yourLab.yourInstitution.edu 17779) 
+#See more here: http://genomewiki.ucsc.edu/index.php/Assembly_Hubs#Adding_BLAT_servers
+#isPcr provides the option to use a different gfServer than the blat host if desired.

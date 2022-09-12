@@ -1,0 +1,10 @@
+track OldAnnotation
+longLabel Annotation
+shortLabel Ann
+priority 11
+visibility dense
+color 0,0,0
+bigDataUrl bbi/PT.bb
+type bigBed 6
+group map
+#html ../trackDescriptions/gap
