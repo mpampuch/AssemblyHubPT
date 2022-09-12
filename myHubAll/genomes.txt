@@ -1,7 +1,7 @@
 genome PT
 trackDb PT/trackDb.txt
 groups groups.txt
-description Phaedactylum Tricornutum 2008 WGSS Assembly (Bowler et al.; https://www.nature.com/articles/nature07410)
+description Phaedactylum Tricornutum 2008 WGSS Assembly WITH ALL OLD DATA (Bowler et al.; https://www.nature.com/articles/nature07410)
 twoBitPath PT/PT.2bit
 organism Phaeodactylum tricornutum
 defaultPos 1:1-2000

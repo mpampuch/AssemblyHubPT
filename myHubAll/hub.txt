@@ -1,6 +1,6 @@
-hub PTOld
-shortLabel PTOld
-longLabel Contains the old PT genome assembly (Bowler et al., 2008)
+hub PTOldwAllData
+shortLabel PTOldwAllData
+longLabel Contains the old PT genome assembly WITH ALL OLD DATA (Bowler et al., 2008)
 genomesFile genomes.txt
 email mpampuch@uwo.ca
 descriptionUrl https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/blob/main/myHubAll/PT/bbi/description.html
