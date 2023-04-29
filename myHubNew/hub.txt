@@ -1,6 +1,6 @@
 hub PTNew
 shortLabel PTNew
-longLabel Contains the New PT genome assembly (OU594942; Giguere et al., 2021)
+longLabel Contains the New Phaeodactylum tricornutum genome assembly (OU594942; Giguere et al., 2021)
 genomesFile genomesNew.txt
 email mpampuch@uwo.ca
 descriptionUrl https://raw.githubusercontent.com/mpampuch/AssemblyHubPT/blob/main/myHubNew/PT/bbi/description.html
