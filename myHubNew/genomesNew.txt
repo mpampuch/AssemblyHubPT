@@ -1,7 +1,7 @@
 genome PT
 trackDb PT/trackDb.txt
 groups groups.txt
-description 2021 ONT Assembly (OU594942; Giguere et al.; https://peerj.com/articles/13607/)
+description 2021 T2T Assembly (OU594942; Giguere et al.; https://peerj.com/articles/13607/)
 twoBitPath PT/PTNew.2bit
 organism Phaeodactylum tricornutum
 defaultPos chromosome_1:1-2000
