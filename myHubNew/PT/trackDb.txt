@@ -3,4 +3,4 @@ bigDataUrl ./final_remapped_data.bb
 shortLabel Remapped Data
 longLabel Phatr3 Data mapped to T2T assembly of P. tricornutum
 type bigBed
-visibility pack
+visibility squish
